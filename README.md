@@ -1,4 +1,4 @@
-# SWV-App
+# SWV-App (Mac OS)
 
 ## Start virtual Midi
 - start Audio MIDI Setup
