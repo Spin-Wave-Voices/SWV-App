@@ -1,5 +1,7 @@
 # SWV-App (Mac OS)
 
+After downloading on a local PC:
+
 ## Start virtual Midi
 - start Audio MIDI Setup
 - in IAC Driver add/use Midi loopMIDI Port
